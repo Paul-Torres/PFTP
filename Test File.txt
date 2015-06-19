@@ -1,2 +1,6 @@
 hello
 Can you read this?
+
+Change identified
+Solution created
+Issue fixed #PFTP-3
